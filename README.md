@@ -6,7 +6,7 @@ Software Engineer focusing in Full-stack Development:
 - 🕴 ️I'm currently do freelance development & maintenance too
 
 Get in Touch
-email:rafif.musyaffa24.gmail.com
+[email](mailto:rafif.musyaffa24.gmail.com)
 <!--
 **rafifm/rafifm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
