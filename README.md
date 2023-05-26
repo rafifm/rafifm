@@ -1,11 +1,18 @@
-### Hi there 👋
 
+Greetings, I'm Rafif Musyaffa 
+Software Engineer focusing in Full-stack Development:
+- 🏢 I’m currently working at Bappelitbang Tapin
+- ⚙️ I use daily: .php, .vue, .js, .html, .css, .dart
+- 🕴 ️I'm currently do freelence development & maintenance too
+
+Get in Touch
+email:rafif.musyaffa24.gmail.com
 <!--
 **rafifm/rafifm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
