@@ -2,7 +2,7 @@
 Greetings, I'm Rafif Musyaffa 
 Software Engineer focusing in Full-stack Development:
 - 🏢 I’m currently working at Bappelitbang Tapin
-- ⚙️ I use daily: .php, .vue, .js, .html, .css, .dart
+- ⚙️ I use daily: .php, .vue, .js, .html, .css
 - 🕴 ️I'm currently do freelance development & maintenance too
 
 Get in Touch
